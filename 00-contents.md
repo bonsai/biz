@@ -66,3 +66,7 @@
 | 17 | マーシャル・マクルーハン | マクルーハンとAI――メディアが人間の感覚を作り変える | [17-mcluhan-and-ai.md](17-mcluhan-and-ai.md) |
 | 18 | G・K・チェスタトン | チェスタトンとAI――常識を疑う機械は、常識を持てるか | [18-chesterton-and-ai.md](18-chesterton-and-ai.md) |
 | 19 | フェルディナン・ド・ソシュール | ソシュールとAI――意味は、言葉の中にあるのか | [19-saussure-and-ai.md](19-saussure-and-ai.md) |
+| 20 | ジャック・デリダ | デリダとAI――意味は、最後まで確定できるのか | [20-derrida-and-ai.md](20-derrida-and-ai.md) |
+| 21 | スラヴォイ・ジジェク | ジジェクとAI――私たちは、何を信じたいのか | [21-zizek-and-ai.md](21-zizek-and-ai.md) |
+| 22 | ポール・ヴィリリオ | ヴィリリオとAI――速さは、何を見えなくするのか | [22-virilio-and-ai.md](22-virilio-and-ai.md) |
+| 23 | 老子 | 老子とAI――賢い機械は、何もしないことを知っているか | [23-laozi-and-ai.md](23-laozi-and-ai.md) |
