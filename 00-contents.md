@@ -63,3 +63,5 @@
 | 14 | ロラン・バルト | バルトとAI――作者がいなくなったあと | [14-barthes-and-ai.md](14-barthes-and-ai.md) |
 | 15 | ホルヘ・ルイス・ボルヘス | ボルヘスとAI――バベルの図書館に答えはあるか | [15-borges-and-ai.md](15-borges-and-ai.md) |
 | 16 | ヴァルター・ベンヤミン | ベンヤミンとAI――複製できる時代に、作品の価値はどこにあるのか | [16-benjamin-and-ai.md](16-benjamin-and-ai.md) |
+| 17 | マーシャル・マクルーハン | マクルーハンとAI――メディアが人間の感覚を作り変える | [17-mcluhan-and-ai.md](17-mcluhan-and-ai.md) |
+| 18 | G・K・チェスタトン | チェスタトンとAI――常識を疑う機械は、常識を持てるか | [18-chesterton-and-ai.md](18-chesterton-and-ai.md) |
