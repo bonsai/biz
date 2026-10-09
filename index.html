@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>biz — 制作カンバン</title>
+<meta name="description" content="思想家とAI・仕事をテーマにした原稿制作の進捗、スキル、道具をまとめたカンバン。">
+<style>
+:root{color-scheme:light;--ink:#20251f;--muted:#667064;--line:#dfe5dc;--paper:#f6f8f3;--card:#fff;--green:#315d43;--pale:#eaf2e9}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{padding:42px 22px 30px;background:var(--green);color:#fff}header .wrap,main{max-width:1080px;margin:auto}header p{margin:0;opacity:.8}h1{font-size:clamp(2rem,5vw,3.4rem);line-height:1.1;margin:.35rem 0 1rem}header a{color:#fff}main{padding:26px 22px 60px}.top{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:20px}.top a{color:var(--green)}.meta{font-size:.9rem;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px;min-width:0}.wide{grid-column:1/-1}h2{font-size:1.25rem;margin:0 0 14px}h3{font-size:1rem;margin:20px 0 8px}ul{padding-left:1.35rem;margin:.4rem 0}li{margin:.45rem 0}a{color:var(--green);overflow-wrap:anywhere}.status{display:inline-block;background:var(--pale);color:var(--green);padding:3px 10px;border-radius:999px;font-size:.85rem;font-weight:650}.pending{background:#f5f0df;color:#795d16}.tool{padding:12px 0;border-top:1px solid var(--line)}.tool:first-of-type{border-top:0}.tool strong{display:block}.tool p{margin:2px 0;color:var(--muted);font-size:.94rem}ol{padding-left:1.4rem}footer{margin-top:24px;color:var(--muted);font-size:.88rem}
+@media(max-width:700px){.grid{grid-template-columns:1fr}.wide{grid-column:auto}header{padding-top:30px}.card{padding:18px}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><p>bonsai / biz</p><h1>制作カンバン</h1><p>思想家の視点から、AI・仕事・社会を考えるエッセイ／音声原稿。</p></div></header>
+<main>
+<div class="top"><span class="meta">更新日：2026-10-09 · GitHubを正本として管理</span><a href="kanban.md">kanban.md（原文） ↗</a></div>
+<div class="grid">
+<section class="card"><h2>状況</h2><span class="status">基盤整備済み</span>
+<h3>完了</h3><ul>
+<li>思想家エージェントの原稿を整理（01〜08）</li>
+<li><a href="00-contents.md">思想家・原稿の一覧</a>を集約</li>
+<li><a href="AGENTS.md">AGENTS.md</a> と <a href="agents/AGENTS.md">agents/AGENTS.md</a> に制作方針・役割を整理</li>
+<li>企画・執筆・読み上げの3スキルを作成</li>
+<li>旧プロンプトの重複内容をスキルへ統合し、旧ファイルを削除</li>
+</ul>
+<h3>次にやる</h3><ul>
+<li><span class="status pending">未検証</span> 3スキルを実際の1本の制作で通しテスト</li>
+<li>読み上げ用本文とメタデータの分離を確認</li>
+<li>公開サイトの一覧・原稿・制作状況への導線を確認</li>
+<li>テスト結果をスキルに反映</li>
+</ul></section>
+<section class="card"><h2>装備・道具</h2>
+<div class="tool"><strong><a href="https://github.com/bonsai/biz">GitHub · bonsai/biz</a></strong><p>原稿・ルール・スキルの正本</p></div>
+<div class="tool"><strong><a href="00-contents.md">00-contents.md</a></strong><p>思想家と原稿の一覧</p></div>
+<div class="tool"><strong><a href="AGENTS.md">AGENTS.md</a></strong><p>プロジェクト全体の制作方針</p></div>
+<div class="tool"><strong><a href="agents/AGENTS.md">agents/AGENTS.md</a></strong><p>エージェント間の役割分担</p></div>
+<div class="tool"><strong><a href="skills/episode-planning/SKILL.md">episode-planning</a></strong><p>思想家・問い・構成を決める</p></div>
+<div class="tool"><strong><a href="skills/writing-script/SKILL.md">writing-script</a></strong><p>読み上げる原稿を書く</p></div>
+<div class="tool"><strong><a href="skills/reading-aloud/SKILL.md">reading-aloud</a></strong><p>音声向けに文章・リズムを整える</p></div>
+</section>
+<section class="card wide"><h2>制作フロー</h2><ol><li><strong>企画：</strong>既存エピソードを確認し、思想家と中心となる問いを決める</li><li><strong>執筆：</strong>音声で理解できる、ひとつの主張を持つ原稿を書く</li><li><strong>読み上げ調整：</strong>息継ぎ、文の長さ、固有名詞、耳での理解しやすさを確認</li><li><strong>記録：</strong>原稿・メタデータ・目次を更新し、必要なら公開する</li></ol></section>
+<section class="card wide"><h2>運用ルール</h2><ul><li>GitHubを正本にする。サイトは状態を見やすくする表示層。</li><li>企画・執筆・読み上げは独立したスキルとして保ち、必要な順に組み合わせる。</li><li>ファイルが存在するだけでは完了とせず、実際の制作フローで確認する。</li><li>デプロイ・公開は、原稿制作の動作確認とは分けて扱う。</li></ul></section>
+</div>
+<footer>このページは <a href="kanban.md">kanban.md</a> の進捗を読みやすく表示するための概要です。</footer>
+</main></body></html>
