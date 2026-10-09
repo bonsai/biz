@@ -72,6 +72,12 @@
 | 23 | 老子 | 老子とAI――賢い機械は、何もしないことを知っているか | [23-laozi-and-ai.md](23-laozi-and-ai.md) |
 | 24 | ミルチャ・エリアーデ | エリアーデとAI――データにできない「聖なるもの」はあるか | [24-eliade-and-ai.md](24-eliade-and-ai.md) |
 | 25 | 龍樹（ナーガールジュナ） | 龍樹とAI――「正解」に執着しない知性はつくれるか（約2214字・TTS約6〜7分） | [25-nagarjuna-and-ai.md](25-nagarjuna-and-ai.md) |
+| 26 | アリストテレス | アリストテレスとAI――何のために賢くなるのか | [26-aristotle-and-ai.md](26-aristotle-and-ai.md) |
+| 27 | ヘーゲル | ヘーゲルとAI――矛盾は、改善の入口になるか | [27-hegel-and-ai.md](27-hegel-and-ai.md) |
+| 28 | エリノア・オストロム | オストロムとAI――共有する知性を誰が管理するのか | [28-ostrom-and-ai.md](28-ostrom-and-ai.md) |
+| 29 | ドナ・ハラウェイ | ハラウェイとAI――人間と機械の境界を引き直す | [29-haraway-and-ai.md](29-haraway-and-ai.md) |
+| 30 | パウロ・フレイレ | フレイレとAI――答えを教える機械から、対話する道具へ | [30-freire-and-ai.md](30-freire-and-ai.md) |
+| 31 | ハンナ・アーレント | アーレントとAI――判断を機械に預けた社会で、誰が責任を持つのか | [31-arendt-and-ai.md](31-arendt-and-ai.md) |
 
 ## 制作計画
 
