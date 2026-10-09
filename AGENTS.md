@@ -7,7 +7,6 @@ Use public figures' ideas as distinct question-generating lenses to reinterpret 
 - Shared rules and orchestration: [agents/AGENTS.md](agents/AGENTS.md)
 - Individual person agents: one Markdown file per figure under `agents/`
 - Public index and non-overlapping domains: [00-contents.md](00-contents.md)
-- Work-and-AI framework: [work-and-ai.md](work-and-ai.md)
 
 ## How to select agents
 1. Identify the user's concrete situation and central uncertainty.
@@ -36,4 +35,4 @@ When adding a figure:
 2. Check the index and all adjacent agents for overlap.
 3. Add an individual `agents/<slug>.md` file.
 4. Add the figure to `00-contents.md` and relevant project tables.
-5. Update examples and prompts only where useful.
+5. Keep agent selection grounded in the distinction between capability (can it work reliably?), legitimacy (should it be delegated?), and design (how are purpose, verification, appeal, and responsibility assigned?). Update examples and prompts only where useful.
