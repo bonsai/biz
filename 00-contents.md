@@ -62,3 +62,4 @@
 | 13 | ミシェル・フーコー | フーコーとAI――誰が人間を分類するのか | [13-foucault-and-ai.md](13-foucault-and-ai.md) |
 | 14 | ロラン・バルト | バルトとAI――作者がいなくなったあと | [14-barthes-and-ai.md](14-barthes-and-ai.md) |
 | 15 | ホルヘ・ルイス・ボルヘス | ボルヘスとAI――バベルの図書館に答えはあるか | 企画 |
+| 16 | ヴァルター・ベンヤミン | ベンヤミンとAI――複製できる時代に、作品の価値はどこにあるのか | [16-benjamin-and-ai.md](16-benjamin-and-ai.md) |
