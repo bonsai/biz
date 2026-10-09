@@ -72,3 +72,7 @@
 | 23 | 老子 | 老子とAI――賢い機械は、何もしないことを知っているか | [23-laozi-and-ai.md](23-laozi-and-ai.md) |
 | 24 | ミルチャ・エリアーデ | エリアーデとAI――データにできない「聖なるもの」はあるか | [24-eliade-and-ai.md](24-eliade-and-ai.md) |
 | 25 | 龍樹（ナーガールジュナ） | 龍樹とAI――「正解」に執着しない知性はつくれるか（約2214字・TTS約6〜7分） | [25-nagarjuna-and-ai.md](25-nagarjuna-and-ai.md) |
+
+## 制作計画
+
+- [『思想家とAI』動画制作計画](video-production-plan.md)
