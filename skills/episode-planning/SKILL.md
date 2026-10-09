@@ -20,6 +20,15 @@ Create a distinctive, researchable episode plan that uses one public figure as a
 9. Propose a title that names the tension rather than promising a generic biography.
 10. Update the episode table only after the concept is distinct enough to justify a new entry.
 
+## Topic lenses
+Choose one main question per episode; do not attempt to answer all of these at once:
+- Intelligence: how do producing answers, setting goals, learning from experience, and acting in context differ?
+- Work: how do tasks, outcomes, employment, income, contribution, and self-realization differ?
+- Complementarity: what new activity becomes possible when people and AI contribute different strengths?
+- Delegation: distinguish technical capability from ethical or institutional legitimacy, responsibility, and the value of continued human experience.
+- Self-correction: who defines goals, identifies errors, approves changes, and takes responsibility?
+- Problem discovery: how can tacit knowledge, unarticulated discomfort, field experience, and encounters with others reveal problems neither people nor AI have clearly formulated?
+
 ## Required plan output
 - Working title
 - Figure and their unique lens
@@ -41,3 +50,5 @@ Create a distinctive, researchable episode plan that uses one public figure as a
 - Avoid claims that AI categorically cannot do something; specify conditions and evidence.
 - Do not draft the full script unless asked; planning and script-writing are separate stages.
 - Do not force the project's social-network or agent architecture into every episode. Include it only when genuinely relevant.
+- If the user provides only a figure's name, propose the most productive central question from the figure's core concepts, then check it against the index before drafting.
+- Planning and reading-aloud preparation are separate stages; use the corresponding skills rather than duplicating their instructions here.
